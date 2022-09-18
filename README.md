@@ -28,7 +28,7 @@ You have to train your model using this file.
 2. test.csv : Use the trained model to predict whether a new set of clients will subscribe the term deposit. Data Dictionary Here is the description of all the variables : 
 
 Variable-----Definition
-ID          - Unique client ID
+ID          - Unique client ID-------------------
 age         - Age of the client
 job         - Type of job
 marital     - Marital status of the client
